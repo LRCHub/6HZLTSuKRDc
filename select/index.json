@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "切手のないおくりもの",
+  "base_artist": "WANIMA",
+  "createdAt": "2026-01-13T16:26:36.445311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "切手のないおくりもの",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/01_切手のないおくりもの_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "切手のないおくりもの ~ www.urajp.eu ~",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/02_切手のないおくりもの_~_www.urajp.eu_~_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "切手のないおくりもの",
+      "artist": "Kazuo Zaitsu",
+      "has_synced": true,
+      "path": "select/03_切手のないおくりもの_Kazuo_Zaitsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "切手のないおくりもの",
+      "artist": "平井 堅",
+      "has_synced": true,
+      "path": "select/04_切手のないおくりもの_平井_堅.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "切手のないおくりもの",
+      "artist": "YOUMOU TO OHANA",
+      "has_synced": true,
+      "path": "select/05_切手のないおくりもの_YOUMOU_TO_OHANA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "切手のないおくりもの",
+      "artist": "財津和夫",
+      "has_synced": true,
+      "path": "select/06_切手のないおくりもの_財津和夫.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "切手のないおくりもの",
+      "artist": "小野リサ",
+      "has_synced": true,
+      "path": "select/07_切手のないおくりもの_小野リサ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "切手のないおくりもの",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_切手のないおくりもの_WANIMA.txt"
+    }
+  ]
+}
